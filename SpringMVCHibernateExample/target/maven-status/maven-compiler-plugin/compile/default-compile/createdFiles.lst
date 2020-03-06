@@ -1,0 +1,9 @@
+springmvc_example\config\WebInitializer.class
+springmvc_example\service\PersonaServiceImpl.class
+springmvc_example\config\HibernateConfig.class
+springmvc_example\dao\PersonaDaoImpl.class
+springmvc_example\model\Persona.class
+springmvc_example\controller\PersonaController.class
+springmvc_example\dao\PersonaDao.class
+springmvc_example\config\WebConfig.class
+springmvc_example\service\PersonaService.class
